@@ -1,6 +1,7 @@
 """ Attempt to clone https://github.com/michaeldv/awesome_print
 
 Usage:
+    from awesome_print import ap
     ap(object)
 """
 import __builtin__
