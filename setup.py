@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='awesome_print',
-    version='0.1',
+    version='0.1.1',
     author='Stan Mazhara',
     author_email='akmegran@gmail.com',
     packages=['awesome_print', 'awesome_print.test'],
